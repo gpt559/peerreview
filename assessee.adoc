@@ -1,0 +1,43 @@
+Assessee
+--------
+
+[cols="2*a"]
+|===
+.2+|.Products & Service
+- placeholder
+|.Gain Creators
+- placeholder
+|.Pain Relievers
+- placeholder
+|===
+
+[cols="2*a"]
+|===
+|.Gains
+- Verifiable skills
+- Shorter self assessment process
+- More targeted feedback
+.2+|.Customer Job(s)
+- Create goals
+- Complete a self assessment against my goals for previous year
+- Update my resume with skills
+|.Pains
+- Asking for feedback from peers
+- Writing goals on a regular basis
+- Feedback is not helpful
+|===
+
+== Hypotheses ==
+- The current review process takes too much time and does not reflect my skills
+
+== Script ==
+
+Hi, I'm <INSERT NAME> from the <OFFICE> office. Would you have 10 mins to talk about your experience with the current review / assessment process?
+
+== Questions ==
+. How many people do you typically ask to review you?
+. How long does it you usually take you to complete your self review?
+. Have you incorporated feedback from peers into your review? Why?
+. What type of information would you hope to get from a peer review and do you usually get that information?
+. How do you advertise what skills you have to others in your resume?
+. Have you asked other peers to endorse your skills and if so how did you put them in communication

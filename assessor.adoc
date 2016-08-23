@@ -1,0 +1,50 @@
+= Assessor =
+
+== Value Proposition Canvas ==
+
+[cols="2*a"]
+|===
+.2+|.Products & Service
+- Taleo
+|.Gain Creators
+- placeholder
+|.Pain Relievers
+- placeholder
+|===
+
+
+[cols="2*a"]
+|===
+|.Gains
+- consistent format for input
+- quantitative feedback
+.2+|.Customer Job(s)
+- write employee assessment
+- consolidate input from others
+|.Pains
+- time
+- sparse input from assessees and reviewers
+|===
+
+== Hypotheses ==
+
+- Consistent, quantitive feedback from reviewers will simplify consolidation.
+- Form-based input will save time when writing assessments.
+
+== Questions ==
+
+. What is the most time-consuming Career Manager activity that you perform?
+  Is it the most valuable?
+. How many assessments to you write yearly?
+. How much time do they take?
+. Do you get much in the way of input from peers or job managers for assessments
+  you write? Is it valuable?
+. How would you change the current assessment process?
+. Were you here for the previous assessment process? Is the new one better? Are
+  there aspects of the old approach that you miss?
+. Have you attended any of the firm's leadership courses? Did it include a 360
+  review? Was that input valuable? Would you prefer that format for an annual
+  assessment?
+. Have you worked anywhere else? How were assessments conducted there? Were
+  there aspects of that approach that you'd like Booz to adopt.
+. Can you provide me with the names of three other people to speak with? 

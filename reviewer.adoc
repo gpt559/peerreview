@@ -1,0 +1,43 @@
+= Reviewer =
+
+== Value Proposition Canvas ==
+[cols="2*a"]
+|===
+.2+|.Products & Service
+- Taleo
+|.Gain Creators
+- placeholder
+|.Pain Relievers
+- placeholder
+|===
+[cols="2*a"]
+|===
+|.Gains
+- Manager sees that you're contributing to the firm by writing a review.
+.2+|.Customer Job(s)
+- Provide Review for Employee
+- Provide Review for Employee on behalf of Assessor
+|.Pains
+- Writing a valuable review can take a considerable amount of time
+- Being asked to write a review can be stressful.
+- Writing a truthful review can hurt relationship with employee
+- Writing a rosy / untruthful review can improve relationship with employee
+- Review is not visible to employee's supervisor"
+|===
+== Hypotheses ==
+
+- Writing assessments is a time intensive and stressful process.
+- If the peer review process can be completed in under five minutes there would be a higher response rate.
+- If the peer review process was anonymous would your feedback be more candid?
+
+== Questions ==
+
+. How many reviews are you asked to do each year?
+. How many reviews do you complete each year?
+. How long do you spend on each review?
+. How in depth are your reviews?
+. Is there any way that you would improve the review process?
+. Do you find that there is a a conflict of interest when writing a review for an employee?
+. How do you feel when you are asked to write a review?
+. Could you tell me what you think about the current Taleo review process.
+. How does the BAH process compare to other peer review processes you have used?
