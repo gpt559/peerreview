@@ -1,0 +1,37 @@
+[cols="10*a"]
+|=====
+2.2+|
+.Key Partners
+- placeholder
+2+|
+.Key Activities
+- placeholder
+2.2+|
+.Value Propositions
+- reduce admin hours
+- provide broader input to assessments
+- enable performance comparison across teams
+- improve retention
+- increase morale
+2+|
+.Buy-In & Support
+- placeholder
+2.2+|
+.Beneficiaries
+- reviewers
+- sr leadership
+- hiring managers
+- resource management
+2+|
+.Key Resources
+- placeholder
+2+|
+.Deployment
+- placeholder
+5+|
+.Mission Budget
+- placeholder
+5+|
+.Mission Achievement
+- placeholder
+|=====
