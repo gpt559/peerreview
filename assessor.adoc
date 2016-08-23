@@ -37,8 +37,9 @@
   Is it the most valuable?
 . How many assessments to you write yearly?
 . How much time do they take?
-. Do you get much in the way of input from peers or job managers for assessments
-  you write? Is it valuable?
+. When you are writing someone's review and request input from others, what
+  percentage of people reply? Is the input valuable? Are you soliciting input in
+  via the tool or in person?
 . How would you change the current assessment process?
 . Were you here for the previous assessment process? Is the new one better? Are
   there aspects of the old approach that you miss?
@@ -47,4 +48,4 @@
   assessment?
 . Have you worked anywhere else? How were assessments conducted there? Were
   there aspects of that approach that you'd like Booz to adopt.
-. Can you provide me with the names of three other people to speak with? 
+. Can you provide me with the names of three other people to speak with?
