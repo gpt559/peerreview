@@ -17,9 +17,15 @@
 .Buy-In & Support
 - placeholder
 2.2+|
+
 .Beneficiaries
+ - a
+
+[red-background]
 - reviewers
 - sr leadership
+
+[green-background]
 - hiring managers
 - resource management
 2+|
