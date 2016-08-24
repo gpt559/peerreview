@@ -22,7 +22,7 @@
 - Being asked to write a review can be stressful.
 - Writing a truthful review can hurt relationship with employee
 - Writing a rosy / untruthful review can improve relationship with employee
-- Review is not visible to employee's supervisor"
+- Review is not visible to employee's supervisor."
 |===
 == Hypotheses ==
 
